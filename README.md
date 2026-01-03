@@ -31,14 +31,18 @@
   
 </div>
 
+
 ---
 
-## 🧑‍💻 About Me
+
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+ 🧑‍💻 **About Me**
 
 ```python
 class AryanMishra:
     
-    Machine Learning Engineer passionate about building intelligent systems that bridge research and production.
+    Machine Learning Engineer passionate about building
+     intelligent systems that bridge research and production.
      
     def __init__(self):
         self.name = "Aryan Mishra"
@@ -60,9 +64,9 @@ class AryanMishra:
         return "Building production-ready LLM applications"
 ```
 
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
-### Quick Highlights:
+
+### **Quick Highlights**:
 
 - Currently working on LLM-based applications & AI Agents
 - Learning Advanced LLM architectures & System Design for ML
@@ -75,7 +79,7 @@ class AryanMishra:
 
 ---
 
- 🎯 Core Expertise
+ 🎯 **Core Expertise**
 
 <table>
   <tr>
@@ -106,7 +110,7 @@ class AryanMishra:
 
 ---
 
- 🔬 What I'm Currently Working On
+ 🔬 **What I'm Currently Working On**
 
 <table>
   <tr>
@@ -133,7 +137,7 @@ class AryanMishra:
 
 ---
 
- 🛠️ Tech Stack
+ 🛠️ **Tech Stack**
 
 <details open>
 <summary><b>🐍 Languages</b></summary>
@@ -141,9 +145,6 @@ class AryanMishra:
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash"/>
 </p>
 </details>
 
@@ -154,9 +155,7 @@ class AryanMishra:
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/>
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
   <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn"/>
-  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face"/>
   <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain"/>
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI"/>
 </p>
 </details>
 
@@ -165,10 +164,6 @@ class AryanMishra:
 <br>
 <p>
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django"/>
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/>
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"/>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS"/>
 </p>
 </details>
 
@@ -179,8 +174,6 @@ class AryanMishra:
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
   <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis"/>
-  <img src="https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logo=pinecone&logoColor=white" alt="Pinecone"/>
-  <img src="https://img.shields.io/badge/ChromaDB-FF6F61?style=for-the-badge&logoColor=white" alt="ChromaDB"/>
 </p>
 </details>
 
@@ -189,10 +182,6 @@ class AryanMishra:
 <br>
 <p>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions"/>
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase"/>
 </p>
 </details>
@@ -210,20 +199,13 @@ class AryanMishra:
 </p>
 </details>
 
-<details>
-<summary><b>🔧 MLOps & Experiment Tracking</b></summary>
-<br>
-<p>
-  <img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white" alt="MLflow"/>
-  <img src="https://img.shields.io/badge/Weights_&_Biases-FFBE00?style=for-the-badge&logo=weightsandbiases&logoColor=black" alt="W&B"/>
-  <img src="https://img.shields.io/badge/DVC-13ADC7?style=for-the-badge&logo=dvc&logoColor=white" alt="DVC"/>
-  <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logoColor=white" alt="Ollama"/>
+
 </p>
 </details>
 
 ---
 
- 📊 GitHub Statistics
+ 📊 **GitHub Statistics**
 
 <div align="center">
   
@@ -243,7 +225,7 @@ class AryanMishra:
 
 ---
 
- 🏆 GitHub Trophies
+ 🏆 **GitHub Trophies**
 
 <div align="center">
   
@@ -253,7 +235,7 @@ class AryanMishra:
 
 ---
 
- 🤝 Open to Collaborate
+ 🤝 **Open to Collaborate**
 
 <div align="center">
 
@@ -268,7 +250,7 @@ class AryanMishra:
 
 ---
 
- 🌐 Connect With Me
+ 🌐 **Connect With Me**
 
 <div align="center">
   
