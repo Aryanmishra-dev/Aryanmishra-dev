@@ -1,90 +1,300 @@
-# Hello there, I'm Aryan
 
-### Data Science & AI Engineer | Python • Django • LLMs • Full-Stack
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aryanmishraa18@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aryan-mishra)
-[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Aryanmishra-dev)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/aryanmdev)
-[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com/Aryanmdev)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/AryanMishra-dev)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://aryanmishra-dev.github.io/)
+<div align="center">
+  
+  <!-- Typing Animation Header -->
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=3B82F6&center=true&vCenter=true&random=false&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Aryan+Mishra;Machine+Learning+Engineer;AI+Systems+Architect;Building+Intelligent+Systems" alt="Typing SVG" />
+  
+  <br/>
+  
+  <p>
+    <em>Transforming complex AI research into production-ready solutions</em>
+  </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Aryanmishra-dev&label=Profile%20views&color=0e75b6&style=flat" alt="Aryanmishra-dev" /> </p>
-
----
-
-## 🔭 Currently Working On
-
-- 🤖 **LLM-based projects** (RAG, PDF Q&A, AI agents)
-- 🌐 **Full-stack AI applications** using Django + React
-- 📊 **End-to-end ML pipelines** (EDA → Model → API → UI)
-
-## 🌱 Currently Learning
-
-- 🧩 **Advanced LLM architectures & fine-tuning**
-- ⚙️ **System Design for ML & AI products**
-- 🧠 **AI Agents & autonomous workflows**
-- 📦 **Performance optimization & ML best practices**
-
-## 👯 Looking to Collaborate On
-
-- 🔓 **Open-source AI / ML projects**
-- 🤝 **LLM tools, RAG systems, AI agents**
-- 🧪 **Research-oriented ML experiments**
-
-## 🤝 Looking for Help With
-
-- 🏗️ **Large-scale system design**
-- ☁️ **Production ML & MLOps**
-- 🧠 **LLM optimization & evaluation**
-
-## 💬 Ask Me About
-
-- 🐍 Python, Machine Learning & Deep Learning  
-- 🤖 LLMs, RAG pipelines, AI agents  
-- 🌐 Django, REST APIs, React integration  
-- 📊 Data analysis & model deployment
-
-## ⚡ Fun Fact
-
-> I enjoy breaking complex AI systems into simple, understandable components 😄
+  <!-- Social Badges -->
+  <p>
+    <a href="mailto:aryanmishraa18@gmail.com">
+      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    </a>
+    <a href="https://linkedin.com/in/aryan-mishra">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    </a>
+    <a href="https://aryanmishra-dev.github.io/">
+      <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio"/>
+    </a>
+    <a href="https://twitter.com/aryanmdev">
+      <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
+    </a>
+  </p>
+  
+  <img src="https://komarev.com/ghpvc/?username=Aryanmishra-dev&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile views" />
+  
+</div>
 
 ---
 
-## 🛠️ Languages and Tools
+## 🧑‍💻 About Me
 
-<p align="left">
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/> </a>
-<a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=django" alt="django" width="40" height="40"/> </a>
-<a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=fastapi" alt="fastapi" width="40" height="40"/> </a>
-<a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=pytorch" alt="pytorch" width="40" height="40"/> </a>
-<a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=tensorflow" alt="tensorflow" width="40" height="40"/> </a>
-<a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=scikitlearn" alt="scikit_learn" width="40" height="40"/> </a>
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=react" alt="react" width="40" height="40"/> </a>
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=ts" alt="typescript" width="40" height="40"/> </a>
-<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=tailwind" alt="tailwind" width="40" height="40"/> </a>
-<a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=docker" alt="docker" width="40" height="40"/> </a>
-<a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=postgres" alt="postgresql" width="40" height="40"/> </a>
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mongodb" alt="mongodb" width="40" height="40"/> </a>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/> </a>
-<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=firebase" alt="firebase" width="40" height="40"/> </a>
-<a href="https://ollama.ai/" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/ollama" alt="ollama" width="40" height="40"/> </a>
-<a href="https://streamlit.io/" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/streamlit/FF4B4B" alt="streamlit" width="40" height="40"/> </a>
-<a href="https://gradio.app/" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/gradio/FF7C00" alt="gradio" width="40" height="40"/> </a>
-<a href="https://jupyter.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" width="40" height="40"/> </a>
+```python
+class AryanMishra:
+    
+    Machine Learning Engineer passionate about building intelligent systems that bridge research and production.
+     
+    def __init__(self):
+        self.name = "Aryan Mishra"
+        self.role = "Machine Learning Engineer"
+        self.location = "India"
+        self.education = "B.Tech in Computer Science"
+        
+        self.technical_interests = [
+            "Large Language Models",
+            "RAG Systems",
+            "AI Agents",
+            "MLOps"
+        ]
+    
+    def get_daily_tools(self) -> list:
+        return ["Python", "PyTorch", "LangChain", "Django", "Docker"]
+    
+    def current_focus(self) -> str:
+        return "Building production-ready LLM applications"
+```
+
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+
+### Quick Highlights:
+
+- Currently working on LLM-based applications & AI Agents
+- Learning Advanced LLM architectures & System Design for ML
+- Open to collaborate on Open-source AI/ML projects
+- Ask me about Python, ML, LLMs, RAG, Django
+- Reach me at aryanmishraa18@gmail.com
+- Fun fact: I enjoy breaking complex AI systems into simple, understandable components
+
+<br clear="right"/>
+
+---
+
+ 🎯 Core Expertise
+
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <h3>🤖 Machine Learning & AI</h3>
+      <p>
+        ✦ Large Language Models (LLMs)<br/>
+        ✦ Retrieval-Augmented Generation (RAG)<br/>
+        ✦ Deep Learning (PyTorch, TensorFlow)<br/>
+        ✦ Natural Language Processing<br/>
+        ✦ Computer Vision<br/>
+        ✦ Classical ML & Statistical Modeling
+      </p>
+    </td>
+    <td align="center" width="50%">
+      <h3>⚙️ Engineering & Infrastructure</h3>
+      <p>
+        ✦ End-to-End ML Pipelines<br/>
+        ✦ REST API Development<br/>
+        ✦ Full-Stack AI Applications<br/>
+        ✦ Docker & Containerization<br/>
+        ✦ Database Design & Optimization<br/>
+        ✦ CI/CD for ML Systems
+      </p>
+    </td>
+  </tr>
+</table>
+
+---
+
+ 🔬 What I'm Currently Working On
+
+<table>
+  <tr>
+    <td>🧠</td>
+    <td><strong>LLM Engineering</strong></td>
+    <td>Building RAG pipelines, AI agents, and conversational AI systems</td>
+  </tr>
+  <tr>
+    <td>🏗️</td>
+    <td><strong>ML System Design</strong></td>
+    <td>Architecting scalable, maintainable ML infrastructure</td>
+  </tr>
+  <tr>
+    <td>🚀</td>
+    <td><strong>Production ML</strong></td>
+    <td>Deploying models with focus on latency, reliability, and monitoring</td>
+  </tr>
+  <tr>
+    <td>📊</td>
+    <td><strong>Full-Stack AI Apps</strong></td>
+    <td>End-to-end solutions from data ingestion to user-facing interfaces</td>
+  </tr>
+</table>
+
+---
+
+ 🛠️ Tech Stack
+
+<details open>
+<summary><b>🐍 Languages</b></summary>
+<br>
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash"/>
 </p>
+</details>
+
+<details open>
+<summary><b>🤖 ML & Deep Learning</b></summary>
+<br>
+<p>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn"/>
+  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face"/>
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain"/>
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI"/>
+</p>
+</details>
+
+<details open>
+<summary><b>🌐 Web Frameworks & APIs</b></summary>
+<br>
+<p>
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/>
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS"/>
+</p>
+</details>
+
+<details>
+<summary><b>🗄️ Databases & Vector Stores</b></summary>
+<br>
+<p>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis"/>
+  <img src="https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logo=pinecone&logoColor=white" alt="Pinecone"/>
+  <img src="https://img.shields.io/badge/ChromaDB-FF6F61?style=for-the-badge&logoColor=white" alt="ChromaDB"/>
+</p>
+</details>
+
+<details>
+<summary><b>☁️ DevOps & Cloud</b></summary>
+<br>
+<p>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions"/>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase"/>
+</p>
+</details>
+
+<details>
+<summary><b>📊 Data Science & Visualization</b></summary>
+<br>
+<p>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logoColor=white" alt="Matplotlib"/>
+  <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" alt="Plotly"/>
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter"/>
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit"/>
+</p>
+</details>
+
+<details>
+<summary><b>🔧 MLOps & Experiment Tracking</b></summary>
+<br>
+<p>
+  <img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white" alt="MLflow"/>
+  <img src="https://img.shields.io/badge/Weights_&_Biases-FFBE00?style=for-the-badge&logo=weightsandbiases&logoColor=black" alt="W&B"/>
+  <img src="https://img.shields.io/badge/DVC-13ADC7?style=for-the-badge&logo=dvc&logoColor=white" alt="DVC"/>
+  <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logoColor=white" alt="Ollama"/>
+</p>
+</details>
 
 ---
 
-## 📊 GitHub Stats
+ 📊 GitHub Statistics
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Aryanmishra-dev&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Aryanmishra-dev" /></p>
+<div align="center">
+  
+</div>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Aryanmishra-dev&show_icons=true&locale=en&theme=tokyonight" alt="Aryanmishra-dev" /></p>
+<div align="center">
+  
+  <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=Aryanmishra-dev&theme=github-dark-blue&hide_border=true&stroke=0000&background=0d1117&ring=3B82F6&fire=3B82F6&currStreakLabel=3B82F6" alt="GitHub Streak"/>
+  
+</div>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Aryanmishra-dev&theme=tokyonight" alt="Aryanmishra-dev" /></p>
+<div align="center">
+  
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aryanmishra-dev&bg_color=0d1117&color=3B82F6&line=3B82F6&point=3B82F6&area=true&hide_border=true" alt="Contribution Graph"/>
+  
+</div>
 
 ---
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Aryanmishra-dev&theme=tokyonight&no-frame=true&row=1" alt="Aryanmishra-dev" /></a> </p>
+ 🏆 GitHub Trophies
+
+<div align="center">
+  
+  <img src="https://github-profile-trophy.vercel.app/?username=Aryanmishra-dev&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&row=1" alt="GitHub Trophies"/>
+  
+</div>
+
+---
+
+ 🤝 Open to Collaborate
+
+<div align="center">
+
+| 💼 **Looking to Collaborate On** | 📚 **Looking to Learn More About** |
+|:--------------------------------:|:----------------------------------:|
+| Open-source AI/ML projects | Large-scale system design |
+| LLM tools & RAG systems | Production MLOps best practices |
+| Research-oriented experiments | LLM evaluation & optimization |
+| AI Agents & autonomous systems | Distributed ML training |
+
+</div>
+
+---
+
+ 🌐 Connect With Me
+
+<div align="center">
+  
+  <a href="https://kaggle.com/Aryanmdev">
+    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle"/>
+  </a>
+  <a href="https://leetcode.com/AryanMishra-dev">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
+  </a>
+  <a href="https://github.com/Aryanmishra-dev">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="mailto:aryanmishraa18@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  
+</div>
+
+---
+
+<div align="center">
+  
+  "Becoming The Hokage Doesn't Mean People Will Acknowledge You. But When The People Acknowledge You, You Can Become Hokage. Never Forget Your Friends!"
+  
+  <br/>
+  
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,19&height=100&section=footer" width="100%"/>
+  
+</div>
