@@ -41,8 +41,8 @@
 ```python
 class AryanMishra:
     
-    Machine Learning Engineer passionate about building
-     intelligent systems that bridge research and production.
+    ML Engineer passionate about building intelligent
+    systems that bridge research and production.
      
     def __init__(self):
         self.name = "Aryan Mishra"
@@ -58,7 +58,7 @@ class AryanMishra:
         ]
     
     def get_daily_tools(self) -> list:
-        return ["Python", "PyTorch", "LangChain", "Django", "Docker"]
+        return ["Python", "PyTorch", "Django", "Docker"]
     
     def current_focus(self) -> str:
         return "Building production-ready LLM applications"
