@@ -2,7 +2,7 @@
 
 <img align="right" alt="Anime Coder" width="300" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif">
 
-I'm a **Machine Learning Engineer** from India,
+**Machine Learning Engineer** from India,
 currently pursuing my B.Tech in Computer Science.
 I'm passionate about building intelligent systems
 that bridge the gap between AI research and real-world applications.
