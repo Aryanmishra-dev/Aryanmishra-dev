@@ -68,7 +68,6 @@ I strongly believe in writing clean, readable code and documenting my work thoro
 
 ## Get in Touch
 
-<img align="right" alt="Wave" width="250" src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.gif">
 I'm always excited to connect with fellow developers, researchers, and anyone interested in AI/ML. Whether you want to discuss a project idea, collaborate on open-source work, or just have a conversation about the latest developments in AI, feel free to reach out!
 
 - **Email:** aryanmishraa18@gmail.com
@@ -82,7 +81,6 @@ I'm always excited to connect with fellow developers, researchers, and anyone in
 
 <div align="center">
   
-  <img src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-002f4fe5cc4a.gif" width="200">
   
   *"Becoming the Hokage doesn't mean people will acknowledge you. But when people acknowledge you, you can become Hokage."*
   
