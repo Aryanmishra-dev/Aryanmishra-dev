@@ -29,9 +29,6 @@ Building ML systems end-to-end — from raw data to deployed models. I work acro
 |---|---|---|
 | 🏥 | [**Healthcare Risk Prediction**](https://github.com/Aryanmishra-dev/Healthcare_risk_prediction) | End-to-end ML pipeline — diabetes, heart disease, cancer risk. EDA to deployment-ready. |
 | ⚡ | [**FastAPI End-to-End**](https://github.com/Aryanmishra-dev/fastapi-end-to-end) | Production-grade FastAPI project structure with async endpoints and deployment setup. |
-| 🩺 | [**Complaint Management System**](https://github.com/Aryanmishra-dev/complaint-management-system) | Django web app with server-side rendering and full CRUD workflow. |
-| 🌐 | [**Portfolio**](https://github.com/Aryanmishra-dev/Aryanmishra-dev.github.io) | Personal portfolio site. [aryanmishra-dev.github.io](https://aryanmishra-dev.github.io) |
-
 <br>
 
 ## Stack
