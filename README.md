@@ -34,14 +34,13 @@ Building ML systems end-to-end — from raw data to deployed models. I work acro
 | | Project | Description |
 |---|---|---|
 | 🏥 | [**Healthcare Risk Prediction**](https://github.com/Aryanmishra-dev/Healthcare_risk_prediction) | End-to-end ML pipeline — diabetes, heart disease, cancer risk. EDA to deployment-ready. |
-| ⚡ | [**FastAPI End-to-End**](https://github.com/Aryanmishra-dev/fastapi-end-to-end) | Production-grade FastAPI project structure with async endpoints and deployment setup. |
 <br>
 
 ## Stack
 
 ```
 ML / AI      PyTorch · scikit-learn · LangChain · Hugging Face · Ollama 
-Backend      FastAPI · Django · PostgreSQL · MongoDB · Redis
+Backend      Django · PostgreSQL · MongoDB · Redis
 Infra        Docker · GitHub Actions · Linux · Nginx
 Languages    Python · SQL 
 ```
