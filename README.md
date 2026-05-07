@@ -15,11 +15,6 @@
 
 </div>
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Aryanmishra-dev&label=visitors&color=00ff41&style=flat-square" />
-  <img src="https://img.shields.io/github/followers/Aryanmishra-dev?label=followers&style=flat-square&color=00ff41&labelColor=0d1117" />
-  <img src="https://img.shields.io/badge/status-open_to_internships-FFD700?style=flat-square&labelColor=0d1117" />
-</div>
 
 ---
 
