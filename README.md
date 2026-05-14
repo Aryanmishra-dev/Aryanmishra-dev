@@ -27,8 +27,8 @@ Building ML systems end-to-end — from raw data to deployed models. I work acro
 ## Projects
 
 | | Project | Description |
-|---|---|---|
-| 🏥 | [**Healthcare Risk Prediction**](https://github.com/Aryanmishra-dev/Healthcare_risk_prediction) | End-to-end ML pipeline — diabetes, heart disease, cancer risk. EDA to deployment-ready. |
+|----|----|---|
+||[**Healthcare Risk Prediction**](https://github.com/Aryanmishra-dev/Healthcare_risk_prediction) | End-to-end ML pipeline — diabetes, heart disease, cancer risk. EDA to deployment-ready. |
 <br>
 
 ## Stack
