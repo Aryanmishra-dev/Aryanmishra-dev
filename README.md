@@ -30,6 +30,7 @@ Building ML systems end-to-end — from raw data to deployed models. I work acro
 |----|----|---|
 |1.|[**Healthcare Risk Prediction**](https://github.com/Aryanmishra-dev/Healthcare_risk_prediction) | End-to-end ML pipeline — diabetes, heart disease, cancer risk. EDA to deployment-ready. |
 |2.|[**Employee Attrition Prediction**](https://github.com/Aryanmishra-dev/employee_attrition_prediction_01)| Machine learning pipeline to predict employee attrition using XGBoost and LightGBM, deployed with FastAPI. |
+|3.|[**Multilingual-Absa**](https://github.com/Aryanmishra-dev/multilingual-absa)| Aspect-level sentiment analysis on multilingual product reviews — English, Hindi & Hinglish. |
 <br>
 
 ## Stack
