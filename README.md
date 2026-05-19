@@ -56,5 +56,5 @@ Languages    Python · SQL
 
 <div align="center">
 
-<sub>Open to Data Science and MLOps roles · aryanmishraa18@gmail.com</sub>
+Open to Data Science and MLOps roles · aryanmishraa18@gmail.com
 
