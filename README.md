@@ -1,51 +1,47 @@
 <div align="center">
 
-<br>
-
 # Aryan Mishra
 
-**Data Science & ML Engineering · B.Tech Computer Science · India**
+Data Science • Machine Learning • MLOps
 
-<br>
+B.Tech Computer Science Engineering | India
 
-[LinkedIn](https://linkedin.com/in/aryanmdev) &nbsp;·&nbsp;
-[Portfolio](https://aryanmishra-dev.github.io) &nbsp;·&nbsp;
-[Kaggle](https://kaggle.com/aryanmdev) &nbsp;·&nbsp;
-[Email](mailto:aryanmishraa18@gmail.com)
+LinkedIn ·
+Portfolio ·
+Kaggle ·
+Email
 
 </div>
 
-
 ---
 
-<br>
+I build machine learning systems from data collection and experimentation to deployment and monitoring. My primary interests are applied machine learning, LLM engineering, MLOps, and production-grade AI systems.
 
-Building ML systems end-to-end — from raw data to deployed models. I work across the full stack when needed, but my focus is the ML layer: architecture, training, retrieval, and inference.
+## Tech Stack
 
-<br>
+text Machine Learning   PyTorch · scikit-learn · XGBoost · Hugging Face LLM Engineering    LangChain · Ollama · RAG · Vector Databases Backend            Django · PostgreSQL · MongoDB · Redis MLOps & Infra      Docker · GitHub Actions · Linux · Nginx Languages          Python · SQL 
 
-## Stack
+## Current Focus
 
-```
-ML / AI      PyTorch · scikit-learn · LangChain · Hugging Face · Ollama 
-Backend      Django · PostgreSQL · MongoDB · Redis
-Infra        Docker · GitHub Actions · Linux · Nginx
-Languages    Python · SQL 
-```
+- Building retrieval-augmented generation (RAG) systems
+- Training, evaluating, and fine-tuning language models
+- Experiment tracking and reproducible ML workflows
+- Deploying machine learning applications with Docker and CI/CD
 
-<br>
+## Interests
 
-## Currently
-
-- Training and evaluating language models at small scale
-- Building retrieval-augmented generation pipelines
-- End-to-end ML: feature engineering → model selection → serving
-
-<br>
+- Applied Machine Learning
+- MLOps & ML Infrastructure
+- LLM Systems
+- Data Engineering
+- Open Source
 
 ---
 
 <div align="center">
 
-Open to Data Science and MLOps roles · aryanmishraa18@gmail.com
+Open to internships and entry-level opportunities in Data Science, Machine Learning, and MLOps.
 
+aryanmishraa18@gmail.com
+
+</div>
