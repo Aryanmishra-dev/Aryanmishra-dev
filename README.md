@@ -1,47 +1,87 @@
-<div align="center">
+<h1 align="center">Aryan Mishra</h1>
 
-# Aryan Mishra
+<p align="center">
+  <strong>ML Engineer · LLM Systems · MLOps · Production AI</strong>
+</p>
 
-Data Science • Machine Learning • MLOps
-
-B.Tech Computer Science Engineering | India
-
-LinkedIn ·
-Portfolio ·
-Kaggle ·
-Email
-
-</div>
+<p align="center">
+  B.Tech Computer Science (Data Science) student from India building production-ready machine learning systems —
+  from data collection and experimentation through deployment and monitoring.
+  Focused on applied ML, LLM engineering, MLOps, and scalable AI applications.
+</p>
 
 ---
-
-I build machine learning systems from data collection and experimentation to deployment and monitoring. My primary interests are applied machine learning, LLM engineering, MLOps, and production-grade AI systems.
 
 ## Tech Stack
 
-text Machine Learning   PyTorch · scikit-learn · XGBoost · Hugging Face LLM Engineering    LangChain · Ollama · RAG · Vector Databases Backend            Django · PostgreSQL · MongoDB · Redis MLOps & Infra      Docker · GitHub Actions · Linux · Nginx Languages          Python · SQL 
-
-## Current Focus
-
-- Building retrieval-augmented generation (RAG) systems
-- Training, evaluating, and fine-tuning language models
-- Experiment tracking and reproducible ML workflows
-- Deploying machine learning applications with Docker and CI/CD
-
-## Interests
-
-- Applied Machine Learning
-- MLOps & ML Infrastructure
-- LLM Systems
-- Data Engineering
-- Open Source
+| Area | Tools |
+|---|---|
+| **Languages** | Python, SQL |
+| **Machine Learning** | Scikit-learn, XGBoost, LightGBM, PyTorch |
+| **LLM & AI** | LangChain, LangGraph, Hugging Face, Ollama, RAG, Prompt Engineering |
+| **Backend** | FastAPI, Django |
+| **Databases** | PostgreSQL, MongoDB, Redis, ChromaDB |
+| **MLOps & DevOps** | Docker, GitHub Actions, MLflow, Linux |
+| **Tools** | Git, Jupyter, VS Code |
 
 ---
 
-<div align="center">
+## Featured Projects
 
-Open to internships and entry-level opportunities in Data Science, Machine Learning, and MLOps.
+###  Healthcare Risk Prediction
+End-to-end ML platform for predicting diabetes, heart disease, and lung cancer risk with explainable AI, FastAPI backend, and deployment-ready architecture.
 
-aryanmishraa18@gmail.com
+`FastAPI` `XGBoost` `SHAP` `PostgreSQL` `Docker`
 
-</div>
+---
+
+###  MedAgent AI
+Multi-agent healthcare assistant powered by Retrieval-Augmented Generation (RAG), LangGraph, FastAPI, PostgreSQL, Docker, and LLMs.
+
+`LangGraph` `LangChain` `FastAPI` `PostgreSQL` `Docker`
+
+---
+
+###  VoiceOrder AI
+AI-powered WhatsApp ordering assistant that extracts customer orders using GPT-based workflows and provides a business dashboard.
+
+`FastAPI` `OpenAI` `Python`
+
+---
+
+###  Employee Attrition Prediction
+Production-ready ML pipeline for employee attrition prediction using XGBoost and LightGBM with FastAPI deployment.
+
+`XGBoost` `LightGBM` `FastAPI`
+
+---
+
+## Kaggle
+
+🥇 **Datasets Master** — ranked among top dataset contributors globally, with multiple public datasets used across ML and analytics projects.
+
+🏅 **Competition Medalist**
+
+---
+
+## GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Aryanmishra-dev&show_icons=true&theme=github_dark&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aryanmishra-dev&layout=compact&theme=github_dark&hide_border=true" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Aryanmishra-dev&theme=github-dark&hide_border=true"/>
+</p>
+
+---
+
+## Connect
+
+<p align="center">
+  <a href="https://aryanmishra-dev.github.io/">🌐 Portfolio</a> &nbsp;·&nbsp;
+  <a href="https://linkedin.com/in/aryanmdev">💼 LinkedIn</a> &nbsp;·&nbsp;
+  <a href="https://www.kaggle.com/aryanmdev">📈 Kaggle</a> &nbsp;·&nbsp;
+  <a href="mailto:aryanmishra18@gmail.com">✉️ Email</a>
+</p>
