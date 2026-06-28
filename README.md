@@ -1,66 +1,38 @@
-<h1 align="center">Aryan Mishra</h1>
+# Aryan Mishra
 
-<p align="center">
-  <strong>ML Engineer · LLM Systems · MLOps · Production AI</strong>
-</p>
+**ML Engineer · LLM Systems · MLOps · Production AI**
 
-<p align="center">
-  B.Tech Computer Science (Data Science) student from India building production-ready machine learning systems —
-  from data collection and experimentation through deployment and monitoring.
-  Focused on applied ML, LLM engineering, MLOps, and scalable AI applications.
-</p>
+B.Tech Computer Science (Data Science) student building production-ready machine learning systems — from data collection and model training through deployment and monitoring.
 
 ---
 
-## Tech Stack
+## What I Work With
 
 | Area | Tools |
 |---|---|
 | **Languages** | Python, SQL |
 | **Machine Learning** | Scikit-learn, XGBoost, LightGBM, PyTorch |
-| **LLM & AI** | LangChain, LangGraph, Hugging Face, Ollama, RAG, Prompt Engineering |
-| **Backend** | FastAPI, Django |
-| **Databases** | PostgreSQL, MongoDB, Redis, ChromaDB |
-| **MLOps & DevOps** | Docker, GitHub Actions, MLflow, Linux |
-| **Tools** | Git, Jupyter, VS Code |
+| **LLM & NLP** | Hugging Face Transformers, LangChain, RAG, ONNX |
+| **MLOps** | MLflow, Docker, GitHub Actions |
+| **Backend & Data** | FastAPI, PostgreSQL |
 
 ---
 
-## Featured Projects
+## Projects
 
-###  Healthcare Risk Prediction
-End-to-end ML platform for predicting diabetes, heart disease, and lung cancer risk with explainable AI, FastAPI backend, and deployment-ready architecture.
-
-`FastAPI` `XGBoost` `SHAP` `PostgreSQL` `Docker`
-
----
-
-###  MedAgent AI
-Multi-agent healthcare assistant powered by Retrieval-Augmented Generation (RAG), LangGraph, FastAPI, PostgreSQL, Docker, and LLMs.
-
-`LangGraph` `LangChain` `FastAPI` `PostgreSQL` `Docker`
-
----
-
-###  VoiceOrder AI
-AI-powered WhatsApp ordering assistant that extracts customer orders using GPT-based workflows and provides a business dashboard.
-
-`FastAPI` `OpenAI` `Python`
-
----
-
-###  Employee Attrition Prediction
-Production-ready ML pipeline for employee attrition prediction using XGBoost and LightGBM with FastAPI deployment.
-
-`XGBoost` `LightGBM` `FastAPI`
+| Project | What it does | Stack |
+|---|---|---|
+| [Healthcare Risk Prediction](https://github.com/Aryanmishra-dev/Healthcare-Risk-Prediction) | Explainable ML platform for disease risk scoring | `XGBoost` `SHAP` `FastAPI` `Docker` |
+| [Multilingual ABSA](https://github.com/Aryanmishra-dev/Multilingual-Absa) | Aspect-level sentiment analysis across English, Hindi & Hinglish | `XLM-RoBERTa` `ONNX` `FastAPI` |
+| [MedAgent AI](https://github.com/Aryanmishra-dev/MedAgent-AI) | Multi-agent RAG system for medical Q&A | `LangGraph` `LangChain` `PostgreSQL` `Docker` |
+| [Employee Attrition Prediction](https://github.com/Aryanmishra-dev/Employee-Attrition-Prediction) | Production ML pipeline for HR attrition forecasting | `XGBoost` `LightGBM` `SHAP` `FastAPI` |
 
 ---
 
 ## Kaggle
 
-🥇 **Datasets Master** — ranked among top dataset contributors globally, with multiple public datasets used across ML and analytics projects.
-
-🏅 **Competition Medalist**
+- **Datasets Master** — top-tier dataset contributor globally
+- **Competition Medalist**
 
 ---
 
@@ -69,10 +41,6 @@ Production-ready ML pipeline for employee attrition prediction using XGBoost and
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Aryanmishra-dev&show_icons=true&theme=github_dark&hide_border=true" height="165"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aryanmishra-dev&layout=compact&theme=github_dark&hide_border=true" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Aryanmishra-dev&theme=github-dark&hide_border=true"/>
 </p>
 
 ---
