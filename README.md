@@ -36,15 +36,6 @@ B.Tech Computer Science (Data Science) student building production-ready machine
 
 ---
 
-## GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Aryanmishra-dev&show_icons=true&theme=github_dark&hide_border=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aryanmishra-dev&layout=compact&theme=github_dark&hide_border=true" height="165"/>
-</p>
-
----
-
 ## Connect
 
 <p align="center">
